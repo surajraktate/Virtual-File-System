@@ -18,15 +18,15 @@ platform
 
 Commands
 
-  ls      : To list out all files
-	clear   : To clear console
-	open    : To open the file
-	close   : To close the file
-	closeall: To close all opened files
-	read    : To read the contents from file
-  write   : To write contents into file
-	exit    : To terminate file system
-	stat    : To display information of file using name
-	fstat   : To display information of file using file descriptor
-	truncate: To remove all data from file
-	rm      : To delete the file
+  	ls      : To list out all files <br>
+	clear   : To clear console <br>
+	open    : To open the file <br>
+	close   : To close the file <br>
+	closeall: To close all opened files <br>
+	read    : To read the contents from file <br>
+  	write   : To write contents into file <br>
+	exit    : To terminate file system <br>
+	stat    : To display information of file using name <br>
+	fstat   : To display information of file using file descriptor <br>
+	truncate: To remove all data from file <br>
+	rm      : To delete the file <br>
