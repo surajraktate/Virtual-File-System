@@ -5,9 +5,9 @@
 Description:
 
 The Virtual File system provides all the functionality to the user which is same
-as the UNIX based fle system.
+as the UNIX based file system.
 
-It provides all necessary commands and system calls implementations of fle
+It provides all necessary commands and system calls implementations of file
 system through customised shell.
 
 In this project we implement all necessary data structures of File Subsystem as
