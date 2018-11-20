@@ -13,7 +13,7 @@ system through customised shell.
 In this project we implement all necessary data structures of File Subsystem as
 Inode, Incore Inode Table, File Table, User File Descriptor Table etc.
 
-By using this project we can emulate UNIX fle system on any windows
+By using this project we can emulate UNIX file system on any windows
 platform
 
 Commands
